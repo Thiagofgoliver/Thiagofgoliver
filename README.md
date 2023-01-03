@@ -35,3 +35,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thiagofgoliver&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
+  ![snake gif](https://github.com/Thiagofgoliver/Thiagofgoliver/blob/output/github-contribution-grid-snake.svg)
