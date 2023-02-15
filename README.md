@@ -3,7 +3,6 @@
 
 - 🌱  estudando ti , tsql , python,c#
 - 💬 contate-me no email:thiaguinho021bol@gmail.com
-- 😄 Pronouns:ele/dele
 
 
 <div align="center">
