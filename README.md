@@ -10,7 +10,8 @@
  <li> JavaScript
  <li>  Php
  <li>  Laravel
-
+  <br>
+  <a href="https://www.linkedin.com/in/thiago-felipe-guimar%C3%A3es-oliveira-8b29a2249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
    
 
