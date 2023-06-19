@@ -1,8 +1,19 @@
 ## olá meu nome é thiago felipe ! seja bem vindo ao meu git hub 👋
 
 
-- 🌱  estudando ti , tsql , python,c#
-- 💬 contate-me no email:thiaguinho021bol@gmail.com
+<h1>🌱  estudante ti </h1> 
+ <li>tsql 
+ <li> python
+ <li> c#
+ <li> HTML
+ <li> Css
+ <li> JavaScript
+ <li>  Php
+ <li>  Laravel
+
+
+   
+
 
 
 <div align="center">
