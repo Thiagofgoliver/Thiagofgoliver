@@ -26,13 +26,11 @@
  
 <div> 
 
-  <a href="https://instagram.com/felipe_guimaraes___0?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-felipe-guimar%C3%A3es-oliveira-8b29a2249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
  
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thiagofgoliver&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
   ![snake gif](https://github.com/Thiagofgoliver/Thiagofgoliver/blob/output/github-contribution-grid-snake.svg)
 
